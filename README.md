@@ -17,9 +17,10 @@ This Crowdfunding ETL pipeline was created in multiple stages:
     a.	Using QuickDBD, a sketch of the crowdfunding database was created to identify the relationships between each CSV file. 
     b.	Based on the QuickDBD, a table schema was created, and a Postgres Database was developed. 
 
-!(https://github.com/ns96/Crowdfunding_ETL/blob/main/images/ETL_QuickDBD.png)
-!(https://github.com/ns96/Crowdfunding_ETL/blob/main/images/campaign.png)
-!(https://github.com/ns96/Crowdfunding_ETL/blob/main/images/campaign_join.png)
-!(https://github.com/ns96/Crowdfunding_ETL/blob/main/images/category.png)
-!(https://github.com/ns96/Crowdfunding_ETL/blob/main/images/contacts.png)
-!(https://github.com/ns96/Crowdfunding_ETL/blob/main/images/subcategory.png)
+![test](images/ETL_QuickDBD.png)
+
+![Image of a Campaign Database](images/campaign.png)
+![Image of a joining in all the tables](images/campaign_join.png)
+![Image of a cateogry Database](images/category.png)
+![Image of a contacts Database](images/contacts.png)
+![Image of a subcategory Database](images/subcategory.png)
