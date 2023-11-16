@@ -1,4 +1,6 @@
 # ETL- Challenge
+ - ETL_Mini_Project_CCullen_NStevens.ipynb is the file that you want to review to see all the code. 
+
 This repository contains an ETL pipeline of Crowdfunding data created using Python, Pandas, and Python Dictionary to extract and transform the data into four different CSV files. An ERD and a table schema were created with the CSV file data. The CSV files were uploaded to a Progres Database. 
 
 This Crowdfunding ETL pipeline was created in multiple stages:
